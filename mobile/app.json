@@ -1,4 +1,33 @@
 {
-  "name": "TinDev: Alisson de Andrade Araújo",
-  "displayName": "TindevAlisson"
+  "expo": {
+    "name": "TinDev: Alisson de Andrade Araújo",
+    "slug": "TinDevAlissonAndrade",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#98319A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alisson.tindev"
+    },
+    "android": {
+      "package": "com.alisson.tindev" 
+    }
+  }
 }

@@ -1,8 +1,8 @@
-const express = require('express')
+const express = require('express');
 const mongoose = require('mongoose'); mongoose.set('useCreateIndex', true);
-const cors = require('cors')
+const cors = require('cors');
 
-const routes = require('./routes.js')
+const routes = require('./routes.js');
 
 const app = express()
 const server = require('http').Server(app)
@@ -33,4 +33,5 @@ app.use(cors())
 app.use(express.json())
 app.use(routes)
 
-server.listen(3333)
+//server.listen(3333)
+server.listen(process.env.PORT || 5000);

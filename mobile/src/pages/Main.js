@@ -36,7 +36,7 @@ export default function Main({ navigation }) {
     }, [id])
 
     useEffect(() => {
-        const socket = io('http://192.168.1.73:3333', { 
+        const socket = io('https://alissonapi2.herokuapp.com/', { 
             query: {
                 user: id
             }
