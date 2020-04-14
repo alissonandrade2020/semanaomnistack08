@@ -55,7 +55,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
- - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
 
 - [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
@@ -63,6 +63,8 @@ Autor: Alisson de Andrade Araujo"
 
 - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
+- [Simulação de Loja Virtual](https://alissonandradesistema.000webhostapp.com/temadark)
+ 
 - [Site e sistema de loja virtual - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/lojavirtual)
 
 - [Site e sistema - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/sistemas)
