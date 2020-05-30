@@ -67,7 +67,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
  
-  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone)
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone/)
 
 - [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
